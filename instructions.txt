@@ -7,3 +7,5 @@ cd simple-app
 npm i
 
 npm start
+
+delete this file after execution will write a readme file later
