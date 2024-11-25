@@ -1,0 +1,9 @@
+in terminal, enter the following commands exactly after clonning 
+
+git clone https://github.com/sam-0706/simple-app.git
+
+cd simple-app
+
+npm i
+
+npm start
